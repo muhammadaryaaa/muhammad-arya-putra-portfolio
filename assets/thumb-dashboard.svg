@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#fff7f2"/></linearGradient></defs>
+<rect width="1200" height="650" rx="36" fill="url(#g)"/>
+<rect x="100" y="105" width="1000" height="440" rx="26" fill="#18181b"/>
+<rect x="130" y="135" width="940" height="55" rx="12" fill="#27272a"/>
+<circle cx="165" cy="162" r="8" fill="#FF6B2B"/><rect x="190" y="154" width="190" height="16" rx="8" fill="#52525b"/>
+<rect x="155" y="225" width="260" height="250" rx="18" fill="#27272a"/>
+<rect x="445" y="225" width="290" height="115" rx="18" fill="#27272a"/>
+<rect x="755" y="225" width="285" height="115" rx="18" fill="#27272a"/>
+<rect x="445" y="360" width="595" height="115" rx="18" fill="#27272a"/>
+<path d="M180 430 L235 385 L285 405 L350 320 L395 350" fill="none" stroke="#FF6B2B" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="480" y="270" width="190" height="12" rx="6" fill="#71717a"/><rect x="480" y="295" width="130" height="10" rx="5" fill="#52525b"/>
+<rect x="790" y="270" width="180" height="12" rx="6" fill="#71717a"/><rect x="790" y="295" width="120" height="10" rx="5" fill="#52525b"/>
+<rect x="480" y="405" width="400" height="12" rx="6" fill="#71717a"/><rect x="480" y="430" width="250" height="10" rx="5" fill="#52525b"/>
+<text x="100" y="82" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#18181b">Dashboard Wisata Lampung</text>
+</svg>
